@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818238702982",
+    "project_id": "phida-app",
+    "storage_bucket": "phida-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818238702982:android:4dbd621577d295ba7b9807",
+        "android_client_info": {
+          "package_name": "com.sirt.phidaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDkTuYsQBA_ey1jIg1LRpAn5XHYiHXOtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
