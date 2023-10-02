@@ -26,7 +26,7 @@ public class PhishingActivity extends AppCompatActivity {
     private EditText url_input;
     private Button url_check_btn;
     private TextView result_textView;
-    private static final String SAFE_BROWSING_API_KEY = "AIzaSyAvWrb8B19iTzLDAARneFoiDnsngNiZqr4";
+    private static final String SAFE_BROWSING_API_KEY = "Enter your api keys";
     SafetyNetClient safetyNetClient;
     private String TAG = "PhishingActivity";
     private TextView chat_textView;
